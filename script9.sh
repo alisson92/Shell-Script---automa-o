@@ -1,13 +1,4 @@
 #!/bin/bash
-# ==============================
-# Data Science Academy
-# Script: script9.sh
-# ==============================
-# Auditoria de Segurança
-
-# Atenção: Execute o comando abaixo no bash antes de executar este script:
-
-# apt install net-tools
 
 clear
 echo "###############################################"
